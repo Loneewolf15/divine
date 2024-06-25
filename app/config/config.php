@@ -11,6 +11,6 @@ define("DB_HOST", "localhost");
 
 define('APPROOT', dirname(dirname(__FILE__)));
 //URL Root
-define('URLROOT', 'http://localhost/divine');
+define('URLROOT', 'https://loneewolf15.github.io/divine/');
 // Site Name
 define('SITENAME', 'Divine');
